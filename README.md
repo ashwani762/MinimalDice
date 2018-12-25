@@ -4,6 +4,6 @@ An implementation of the UI designed in https://dribbble.com/shots/2611970-Simpl
 
 ### TODO
 
-[] Add Animation
-[] Font Fix
-[] Other Small Stuffs
+[ ] Add Animation
+[ ] Font Fix
+[ ] Other Small Stuffs
